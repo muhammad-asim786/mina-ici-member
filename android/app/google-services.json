@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "213800971741",
+    "project_id": "nima-ici",
+    "storage_bucket": "nima-ici.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213800971741:android:ca222a0999f33337109a34",
+        "android_client_info": {
+          "package_name": "com.softzone.nima_member_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213800971741-009nu4kii4nsfbb7999oajfgghoc4mkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softzone.nima_member_app",
+            "certificate_hash": "7f5ae5e121cb01a8e57bbe6bb0086cd158e0abaa"
+          }
+        },
+        {
+          "client_id": "213800971741-s13gaqc6jsafft3ukohtc5a2aj65k0bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqbtvLJSqft_HDn-BZ1Uj7fBbvl4oPYo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213800971741-s13gaqc6jsafft3ukohtc5a2aj65k0bi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213800971741-j7e6dcvltqf1q4r9bad15ujmaugfd7cb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nimaMemberApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
